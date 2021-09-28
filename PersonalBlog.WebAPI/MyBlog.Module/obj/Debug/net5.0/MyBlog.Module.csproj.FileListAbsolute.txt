@@ -1,0 +1,12 @@
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\bin\Debug\net5.0\MyBlog.Module.deps.json
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\bin\Debug\net5.0\MyBlog.Module.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\bin\Debug\net5.0\ref\MyBlog.Module.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\bin\Debug\net5.0\MyBlog.Module.pdb
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\obj\Debug\net5.0\MyBlog.Module.csproj.AssemblyReference.cache
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\obj\Debug\net5.0\MyBlog.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\obj\Debug\net5.0\MyBlog.Module.AssemblyInfoInputs.cache
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\obj\Debug\net5.0\MyBlog.Module.AssemblyInfo.cs
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\obj\Debug\net5.0\MyBlog.Module.csproj.CoreCompileInputs.cache
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\obj\Debug\net5.0\MyBlog.Module.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\obj\Debug\net5.0\ref\MyBlog.Module.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.Module\obj\Debug\net5.0\MyBlog.Module.pdb

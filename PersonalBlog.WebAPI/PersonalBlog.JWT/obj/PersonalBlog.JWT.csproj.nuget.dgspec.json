@@ -1,0 +1,418 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\PersonalBlog.JWT\\PersonalBlog.JWT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj",
+        "projectName": "MyBlog.IRepository",
+        "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj",
+        "packagesPath": "C:\\Users\\Hasar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hasar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.ISevice\\MyBlog.ISevice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.ISevice\\MyBlog.ISevice.csproj",
+        "projectName": "MyBlog.ISevice",
+        "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.ISevice\\MyBlog.ISevice.csproj",
+        "packagesPath": "C:\\Users\\Hasar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.ISevice\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hasar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj",
+        "projectName": "MyBlog.Module",
+        "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj",
+        "packagesPath": "C:\\Users\\Hasar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hasar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Repository\\MyBlog.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Repository\\MyBlog.Repository.csproj",
+        "projectName": "MyBlog.Repository",
+        "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Repository\\MyBlog.Repository.csproj",
+        "packagesPath": "C:\\Users\\Hasar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hasar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "SqlSugar.IOC": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Service\\MyBlog.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Service\\MyBlog.Service.csproj",
+        "projectName": "MyBlog.Service",
+        "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Service\\MyBlog.Service.csproj",
+        "packagesPath": "C:\\Users\\Hasar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hasar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
+              },
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.ISevice\\MyBlog.ISevice.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.ISevice\\MyBlog.ISevice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\PersonalBlog.JWT\\PersonalBlog.JWT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\PersonalBlog.JWT\\PersonalBlog.JWT.csproj",
+        "projectName": "PersonalBlog.JWT",
+        "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\PersonalBlog.JWT\\PersonalBlog.JWT.csproj",
+        "packagesPath": "C:\\Users\\Hasar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\PersonalBlog.JWT\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hasar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
+              },
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.ISevice\\MyBlog.ISevice.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.ISevice\\MyBlog.ISevice.csproj"
+              },
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Module\\MyBlog.Module.csproj"
+              },
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Repository\\MyBlog.Repository.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Repository\\MyBlog.Repository.csproj"
+              },
+              "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Service\\MyBlog.Service.csproj": {
+                "projectPath": "C:\\Users\\Hasar\\Desktop\\Project\\Personal Blog\\PersonalBlog.WebAPI\\MyBlog.Service\\MyBlog.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

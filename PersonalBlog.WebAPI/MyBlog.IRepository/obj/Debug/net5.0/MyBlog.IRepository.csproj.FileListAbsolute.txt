@@ -1,0 +1,15 @@
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.deps.json
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\bin\Debug\net5.0\ref\MyBlog.IRepository.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.pdb
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.Module.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.Module.pdb
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csproj.AssemblyReference.cache
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.AssemblyInfoInputs.cache
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.AssemblyInfo.cs
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csproj.CopyComplete
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\ref\MyBlog.IRepository.dll
+C:\Users\Hasar\Desktop\Project\Personal Blog\PersonalBlog.WebAPI\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.pdb
